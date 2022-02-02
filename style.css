@@ -1,0 +1,30 @@
+.container {
+  text-align: center;
+  border: 5px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(8, 94, 97);
+  color: rgb(178, 214, 15);
+}
+#screen {
+  margin: 5px;
+  border: 3px solid black;
+  border-radius: 5px;
+  font-size: 35px;
+}
+.table {
+  text-align: center;
+  padding: 5px;
+  margin: auto;
+  
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  font-size: 35px;
+  width: 50px;
+
+  border: 2px solid black;
+}
