@@ -4,15 +4,16 @@
   /* border-width: auto; */
   border-radius: 5px;
   padding: 10px;
-  margin: 10px;
   background-color: rgb(8, 94, 97);
-  color: rgb(190, 219, 22);
+  color: #dfa60b;
+  font-size: 40px;
 }
 #screen {
-  margin: 5px;
+  margin: 15px;
   border: 3px solid black;
   border-radius: 5px;
   font-size: 25px;
+  font-weight: bold;
 }
 .table {
   text-align: center;
