@@ -14,7 +14,11 @@ for (item of buttons) {
       screen.value = screenValue;
     } else if (buttonText == "=") {
       screen.value = eval(screenValue);
-    } else {
+    } else if (buttonText == "B") {
+      screenValue = screenValue.slice(0, -1);
+      screen.value = screenValue;
+    } 
+    else {
       screenValue += buttonText;
       screen.value = screenValue;
     }
