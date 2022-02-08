@@ -7,6 +7,7 @@
   background-color: rgb(8, 94, 97);
   color: #dfa60b;
   font-size: 40px;
+  width: fit-content;
 }
 #screen {
   margin: 15px;
